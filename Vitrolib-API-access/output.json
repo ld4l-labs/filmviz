@@ -1,0 +1,54 @@
+{
+  "head": {
+    "vars": [ "s" , "p" , "o" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "s": { "type": "uri" , "value": "http://stanley.lib.harvard.edu:8080/vitrolib1/individual/n72a525c396e381ab" } ,
+        "p": { "type": "uri" , "value": "http://id.loc.gov/ontologies/bibframe/title" } ,
+        "o": { "type": "uri" , "value": "http://stanley.lib.harvard.edu:8080/vitrolib1/individual/nd2e32e3994393a00" }
+      } ,
+      {
+        "s": { "type": "uri" , "value": "http://stanley.lib.harvard.edu:8080/vitrolib1/individual/n2934e1ba94efe36c" } ,
+        "p": { "type": "uri" , "value": "http://purl.org/dc/terms/hasPart" } ,
+        "o": { "type": "uri" , "value": "http://stanley.lib.harvard.edu:8080/vitrolib1/individual/nb2611a3ac1b9850c" }
+      } ,
+      {
+        "s": { "type": "uri" , "value": "http://stanley.lib.harvard.edu:8080/vitrolib1/individual/n987bd5cd8a4ae2a7" } ,
+        "p": { "type": "uri" , "value": "http://bibliotek-o.org/ontology/isTitleOf" } ,
+        "o": { "type": "uri" , "value": "http://stanley.lib.harvard.edu:8080/vitrolib1/individual/n1c8d865e8531ce3e" }
+      } ,
+      {
+        "s": { "type": "uri" , "value": "http://stanley.lib.harvard.edu:8080/vitrolib1/individual/n5e05b9177caaa81" } ,
+        "p": { "type": "uri" , "value": "http://id.loc.gov/ontologies/bibframe/hasItem" } ,
+        "o": { "type": "uri" , "value": "http://stanley.lib.harvard.edu:8080/vitrolib1/individual/n1c8d865e8531ce3e" }
+      } ,
+      {
+        "s": { "type": "uri" , "value": "http://lexvo.org/id/iso639-3/emi" } ,
+        "p": { "type": "uri" , "value": "http://www.w3.org/ns/prov#hadPrimarySource" } ,
+        "o": { "type": "uri" , "value": "http://www-01.sil.org/iso639-3/documentation.asp?id=emi" }
+      } ,
+      {
+        "s": { "type": "uri" , "value": "http://stanley.lib.harvard.edu:8080/vitrolib1/individual/n51fae8abdf78d3bf" } ,
+        "p": { "type": "uri" , "value": "http://id.loc.gov/ontologies/bibframe/itemOf" } ,
+        "o": { "type": "uri" , "value": "http://stanley.lib.harvard.edu:8080/vitrolib1/individual/nf92405072ccf59e7" }
+      } ,
+      {
+        "s": { "type": "uri" , "value": "http://stanley.lib.harvard.edu:8080/vitrolib1/individual/n26bc0a5455fbbdbb" } ,
+        "p": { "type": "uri" , "value": "http://id.loc.gov/ontologies/bibframe/hasInstance" } ,
+        "o": { "type": "uri" , "value": "http://stanley.lib.harvard.edu:8080/vitrolib1/individual/nf92405072ccf59e7" }
+      } ,
+      {
+        "s": { "type": "uri" , "value": "http://stanley.lib.harvard.edu:8080/vitrolib1/individual/ne6d477dc07aaf3d9" } ,
+        "p": { "type": "uri" , "value": "http://bibliotek-o.org/ontology/isTitleOf" } ,
+        "o": { "type": "uri" , "value": "http://stanley.lib.harvard.edu:8080/vitrolib1/individual/nf92405072ccf59e7" }
+      } ,
+      {
+        "s": { "type": "uri" , "value": "http://stanley.lib.harvard.edu:8080/vitrolib1/individual/n3e5f715b1c20aa01" } ,
+        "p": { "type": "uri" , "value": "http://bibliotek-o.org/ontology/isAgentOf" } ,
+        "o": { "type": "uri" , "value": "http://stanley.lib.harvard.edu:8080/vitrolib1/individual/n868cb10e5d5a1b3e" }
+      }
+    ]
+  }
+}
